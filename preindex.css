@@ -1,0 +1,46 @@
+body{
+    background-color: #000080;
+    
+}
+img{
+    width: 340px;
+    height: 270px;
+    margin: 10px 500px;
+}
+
+h1{
+    padding-top: 25px;
+    text-align: center;
+    font-size: 48px;
+    color: white;
+   
+}
+
+p{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+hr{
+    width: 320px;
+}
+
+a{
+    height: 70px;
+    margin: 10px 590px;
+    color: blue;
+    border: none;
+    padding: 5px;
+    text-decoration: none;
+    background-color: yellow;
+    
+}
+
+a:hover{
+    cursor: pointer;
+    background-color: orangered;
+    color: white;
+}
+
+
